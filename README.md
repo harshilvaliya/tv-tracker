@@ -1,2 +1,3 @@
-# tv-tracker
-A Next.js website that helps user to track their Anime and TV shows watching.
+# Anime and TV Show Tracker
+
+This is a Next.js application for tracking your anime and TV show progress.
